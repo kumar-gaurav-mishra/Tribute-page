@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 50px;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+    background-color: #eee;
+    padding: 40px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+figure {
+    text-align: center;
+    padding: 10px;
+}
+
+figcaption {
+    padding: 10px 5px;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0 auto;
+}
+
+#tribute-info,
+#quotes,
+#quotes-by {
+    background-color: #eee;
+    padding: 40px;
+}
+
+#tribute-info h3 {
+    text-align: center;
+}
+
+ul {
+    padding: 20px;
+}
+
+ul li {
+    padding: 10px;
+    line-height: 25px;
+}
+
+#quotes {
+    padding: 10px 20%;
+    text-align: center;
+    font-family: sans;
+}
+
+#quotes-by {
+    padding: 0px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#footer {
+    background-color: #eee;
+    text-align: center;
+    padding-bottom: 20px;
+}
